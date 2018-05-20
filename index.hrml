@@ -1,0 +1,40 @@
+<!doctype HTML>
+<html class="js" lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="author" content="">
+<meta name="robots" content="">
+<meta name="keywords" content"">
+<meta name="description" content="">
+<!--Иконки сайта-->
+<link rel="shortcut icon" type="image/x-icon" href="" />
+<link rel="icon" type="image/png" href="" />
+<link rel="icon" type="image/png" href="" />
+<link rel="apple-touch-icon" sizes="180x180" href="">
+<link rel="apple-touch-icon" sizes="192x192" href="">
+<link rel="apple-touch-icon" sizes="256x256" href="">
+<link rel="apple-touch-icon" sizes="512x512" href="">
+<title></title>
+<!--Стили-->
+<style></style>
+<link rel="stylesheet" href="">
+<link rel="stylesheet" href="">
+<link rel="stylesheet" href="">
+<link rel="stylesheet" href="">
+<link rel="stylesheet" href="">
+<!--Скрипты-->
+<script type="text/javascript" src=""></script>
+<script type="text/javascript" src=""></script>
+<script type="text/javascript" src=""></script>
+<script type="text/javascript" src=""></script>
+<script type="text/javascript" src=""></script>
+<script></script>
+<body>
+<header>
+</header>
+
+<footer>
+</footer>
+</body>
+</html>
