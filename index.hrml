@@ -15,7 +15,7 @@
 <link rel="apple-touch-icon" sizes="192x192" href="">
 <link rel="apple-touch-icon" sizes="256x256" href="">
 <link rel="apple-touch-icon" sizes="512x512" href="">
-<title></title>
+<title>Еще одна шлаковая вебка</title>
 <!--Стили-->
 <style></style>
 <link rel="stylesheet" href="">
@@ -32,9 +32,31 @@
 <script></script>
 <body>
 <header>
+<div class="menu">
+  <ul>
+    <li class="active">Главная</li>
+    <li class="" href="#">Услуги</li>
+    <li class="" href="#">Каталог</li>
+    <li class="" href="#">Суппорт</li>
+    <li class="" href="#">Контакты</li>
+  </ul>
+</div>
 </header>
-
+<div class="left_col">
+</div>
+<div class="main">
+</div>
+<div class="right_col">
+</div>
 <footer>
+<div class="social">
+</div>
+<div class="counter">
+</div>
+<div class="copyright">
+</div>
+<div class="contact_form">
+</div>
 </footer>
 </body>
 </html>
