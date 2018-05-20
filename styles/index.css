@@ -1,3 +1,15 @@
 body {
     background-color: beige;
 }
+.main {
+    display: flex;
+    justify-content: center;
+}
+table {
+    border-collapse: collapse;
+    width: 400px;
+    height: 400px;
+}
+td {
+    border: 5px solid #000;
+}
